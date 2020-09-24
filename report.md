@@ -7,9 +7,10 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/Elizaveta-m/KeyValidator/issues/1#issue-707751801
+* https://github.com/Elizaveta-m/KeyValidator/issues/2
+* https://github.com/Elizaveta-m/KeyValidator/issues/3
+* https://github.com/Elizaveta-m/KeyValidator/issues/4
 
 ## Описание процесса тестирования
 
