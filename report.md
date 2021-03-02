@@ -8,8 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Результат для вывода ключа из руководства использования не соответствует статусу "ОК"](https://github.com/Elizaveta-m/KeyValidator/issues/1#issue-707751801)
-* [Ключ, валидный в соответствии с руководством, не валидный](https://github.com/Elizaveta-m/KeyValidator/issues/2)
-* [Валидный ключ считается невалидным](https://github.com/Elizaveta-m/KeyValidator/issues/3)
+* [Ключи, валидные в соответствии с руководством, являются не валидными](https://github.com/Elizaveta-m/KeyValidator/issues/3)
 * [Ключ, не валидный в соответствии с руководством, валидный](https://github.com/Elizaveta-m/KeyValidator/issues/4)
 
 ## Описание процесса тестирования
